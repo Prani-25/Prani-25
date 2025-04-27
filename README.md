@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development, Software Engineering, and Open Source.
 - 🌱 I’m currently learning Full Stack Development (MERN Stack) and Cloud Computing.
 - 💞️ I’m looking to collaborate on exciting web apps, open-source projects, and innovative startups.
-- 📫 How to reach me: [Email](mailto:praneethummadisetty.com) | [LinkedIn](https://www.linkedin.com/in/ummadisetty-praneeth)
+- 📫 How to reach me: [Email](mailto:praneethummadisetty@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ummadisetty-praneeth)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning coffee into code and ideas into reality!
 
