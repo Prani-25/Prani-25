@@ -7,9 +7,3 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning coffee into code and ideas into reality!
 
----
-
-<!---
-Prani-25/Prani-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
