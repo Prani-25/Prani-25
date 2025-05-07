@@ -1,4 +1,4 @@
-# Hi there,  I'm Praneeth! 👋
+# Hi there,   I'm Praneeth! 👋
 
 - 👀 I’m interested in Web Development, Software Engineering.
 - 🌱 I’m currently learning Full Stack Development (MERN Stack).
