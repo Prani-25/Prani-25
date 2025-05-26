@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Full Stack Development (MERN Stack).
 - 💞️ I’m looking to collaborate on exciting web apps, open-source projects, and innovative startups.
 - 📫 Reach me: [Email](mailto:praneethummadisetty@gmail.com) |
-     [LinkedIn](https://www.linkedin.com/in/ummadisetty-praneeth)
+    [LinkedIn](https://www.linkedin.com/in/ummadisetty-praneeth)
 
